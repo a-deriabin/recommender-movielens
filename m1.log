@@ -1,0 +1,38 @@
+Estimating biases using als...
+Computing the pearson_baseline similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9253
+RMSE: 0.9060
+RMSE: 0.8921
+Estimating biases using als...
+Computing the pearson_baseline similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9285
+RMSE: 0.9068
+RMSE: 0.8939
+Estimating biases using als...
+Computing the pearson_baseline similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9277
+RMSE: 0.9069
+RMSE: 0.8938
+Estimating biases using als...
+Computing the pearson_baseline similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9271
+RMSE: 0.9057
+RMSE: 0.8927
+Estimating biases using als...
+Computing the pearson_baseline similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9275
+RMSE: 0.9074
+RMSE: 0.8941
+KNN results:
+[0.9252648930959846, 0.928473399022047, 0.9277333580720477, 0.9270958714659469, 0.927499828868138]
+SlopeOne results:
+[0.9060017529959186, 0.9068395132376454, 0.9068542768827529, 0.9057161636341046, 0.9074496607044347]
+Hybrid results:
+[0.8921498768918111, 0.8939297410108168, 0.8937606104445004, 0.8926724566878721, 0.8941073481777086]
+
+Process finished with exit code 0

@@ -5,7 +5,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 import os
 
-data = surprise.Dataset.load_builtin('ml-100k')
+data = surprise.Dataset.load_builtin('ml-1m')
 
 kSplit = surprise.model_selection.KFold(n_splits=5, shuffle=True)
 
